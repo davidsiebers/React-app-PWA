@@ -1,0 +1,10 @@
+.menuBar {
+  text-align: right;
+  padding: 4px 20px;
+}
+
+.author {
+  color: var(--grayLight);
+  text-align: center;
+  font-size: 14px;
+}

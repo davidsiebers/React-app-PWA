@@ -1,0 +1,14 @@
+.header h1 {
+    background-image: linear-gradient(to bottom right, var(--greenLight) , var(--greenDark));
+    padding: 40px;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    margin: 0 0 40px 0;
+}
+
+.header p {
+    text-align: center;
+    font-size: 18px;
+    color: var(--greenDark);
+}  
